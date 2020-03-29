@@ -1,4 +1,4 @@
-# Tindev APP
+# Rocket Box Web
 
 The study project uses as base of the Omnistack week, so that in the next versions will be placed the changes in the structure, tests and new features.
 
